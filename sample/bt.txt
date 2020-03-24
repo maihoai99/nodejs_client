@@ -1,0 +1,46 @@
+Principle 3+4
+Principle 3.PRODUCT
+3.01. Strive for high quality,acceptable cost and a reasonable schedule, ensuring significant tradeoffs are clear to and accepted by the employer and the client, and are available for consideration by the user and the public
+VD Một sản phẩm đáp ứng đủ tất cả các yêu cầu của người dung nhưng chi phí để xây dựng phần mềm không vượt qua hoặc bằng chi phí dự tính ban đầu . Sản phẩm đó chỉ rõ được các lợi ích mang lại cho  người dùng  cũng như nhà đầu tư nếu người dùng sử dụng sản phẩm 
+3.02.Ensure proper and achievable goals and objectives for any project on which they work or propose
+VD; Một người dẫn đầu dự án sẽ đưa ra các mục tiêu để cho team thực hiện . Những người trong team đó có thể phản hồi cũng như đưa ra ý kiến của mình nếu  như mục tiêu đó không phù hợp với yêu cầu của dự án . Bên  cạnh đó các thành viên trong team cũng có thể đề xuất ra các mục tiêu phù hợp.
+3.03. Identify,define and address ethical,economic,cultural,legal and environmental issues related to work projects
+VD Trong một dự án , sự hợp tác của 2 bên phải tạo ra lợi nhuận về cả 2 phía nhưng phải đảm bảo luật của hệ thống đó. Hai bên không được phép biến những điều mong muốn thành của riêng họ. 
+3.04. Ensure that they are qualified for any project on which they work or propose to work by an appropriate combination of education and training, and experience
+VD Leader trong team sẽ cho khách hàng thấy được các kĩ năng cũng như trình độ của các thành viên trong team. Leader thường xuyên tổ chức các khóa để trao đổi kinh nghiệm giữa các thành viên trong team và thực hiện các bài kiểm tra về trình độ của các thành viên 
+3.05. Ensure an appropriate method is used for any project on which they work or propose to work. 
+VDLeader sẽ xem xét và đưa ra phương pháp thích hợp để xây dựng phần mềm. Phương pháp đó sẽ phù hợp với phong cách làm việc, chức năng của phần mềm  
+3.06. Work to follow professional standards, when available, that are most appropriate for the task at hand, departing from these only when ethically or technically justified.
+VDTrong thực tế khách hàng yêu cầu xây dựng một hệ thống có thể hack  facebook của người khác . Thì bên nhà phát triển phải xem xét không được phép xây dựng hệ thống đó  bởi vì đó là vi phạm về mặt đạo đức ăn cắp tài khoản của người khác khi chưa được sự đồng ý
+3.07. Strive to fully understand the specifications for software on which they work.
+VDTeam ở một dự án phải hiểu cách hệ thống vận hành, hiểu được các thông số kĩ thuật về bảo trì, phát triển sản phẩm	
+3.08. Ensure that specifications for software on which they work have been well documented, satisfy the users’ requirements and have the appropriate approvals.
+VDCác thành viên trong team ghi chép rõ rang các thông số kĩ thuật vào tài liệu yêu cầu và các thông số đó phải đúng yêu cầu của người dùng. Các thông số được ghi trong tài  yêu cầu sẽ được người leader xem xét và phê duyệt xem có chính xác và phù hợp không . Nếu đúng thì mới được đưa cho bên thiết kế 
+3.09. Ensure realistic quantitative estimates of cost, scheduling, personnel, quality and outcomes on any project on which they work or propose to work and provide an uncertainty assessment of these estimates.
+VDTrước khi bắt đầu một dự án thì nhà phát triển sẽ ước tính thời gian để hoàn thành xong,lên kế hoạch để làm,nhân sự làm việc cho dự án đủ. Trong thực tế mặc dù xảy ra một sự cố như nhân viên đột nhiên bị ốm, trong thời gian đó có ngày nghỉ lễ tết nhưng công việc của dự án đó vẫn hoàn thành đúng thời gian đã đề xuất.
+3.10. Ensure adequate testing, debugging, and review of software and related documents on which they work.
+VD Các thành viên trong dự án phải thường xuyên xem xét các tài liệu . Nếu thấy có lỗi nào đó thì sẽ họp tìm ra nguyên nhân gây ra lỗi. Sau khi tìm thấy lỗi thì sẽ gỡ bỏ hoặc sưa lại cho đúng . Leader sẽ thường xuyên kiểm tra tiến trình hoạt động của dự án, kiểm tra mọi phần liên quan đến phần mềm
+3.11. Ensure adequate documentation, including significant problems discovered and solutions adopted, for any project on which they work.
+VDCác thành viên của dự án sẽ xây dựng các tài liệu một cách chi tiết ví dụ như tài liệu về đặc tả yêu cầu , thiết kế . Mỗi 1 ca sử dụng sẽ có các mô hình để mô tả. Các thành viên cũng phải đưa ra các khó khan có thể gặp phải nếu sử dụng phần mềm cùng với đó là các giải pháp đi liền với nó. 
+3.12. Work to develop software and related documents that respect the privacy of those who will be affected by that software.
+VDKhi đưa ra một minh chứng nào đó có thể ảnh hưởng đến cuộc sống của họ thì người phát triển sẽ phải giấu tên để mọi người không biết người nhắc đến là ai
+3.13. Be careful to use only accurate data derived by ethical and lawful means, and use it only in ways properly authorized.
+VDCác thành viên trong dự án phải lựa chọn các dữ liệu thực tế chính xác được các người đi trước đã thực hiện và thành công . Hai công ty cùng cạnh tranh một dự án thì các thành viên khác trong công ty không được phép nhận hối lộ để đưa ra các dữ liệu sai sự thực . Các dữ liệu nếu lấy từ các nguồn khác thì phải được sự cho phép của nguồn đó mới được sử dụng.
+3.14. Maintain the integrity of data, being sensitive to outdated or flawed occurrences.
+VDCác thành viên trong dự án  sẽ cố gắng loại bỏ các dự án lỗi thời hoặc thiếu sót. Người phát triển duy trì một quá trình cập nhật trong hệ thống của họ . Họ thường cập nhật hệ thống hai hoặc ba lần một tuần để người dùng có thể có nhiều chi tiết mới hơn phục vụ cho người dùng.
+3.15 Treat all forms of software maintenance with the same professionalism as new development.
+VD Việc bảo trì phần mềm là bắt buộc với mọi hệ thống . Mỗi khi nhận được kết quả mới, người phát triển sẽ cập nhật hệ thống theo cùng một cách
+
+Principle 4JUDGMENT
+4.01. Temper all technical judgments by the need to support and maintain human values.
+VD Trong hệ thống của nhà phát triển khi một người dùng đang xem xét chi tiết sẽ tốt hơn nhiều nếu tên của họ cũng được hiển thị. Chúng ta có thể sử dụng danh sách các tên và gán tên cho các số chỉ mục có liên quan. Nhưng để duy trì giá trị của con người , người xây dựng đã phải tiết chế phán đoán kĩ thuật này. Bởi vì nếu tên được hiển thị, bất kỳ người dùng nào cũng có thể tìm ra kết quả của một số sinh viên khác bằng cách thử nhiều số chỉ mục khác nhau cho đến khi cuối cùng anh ta tìm thấy tên . Nhưng vì đôi khi các sinh viên có thể không muốn chia sẻ kết quả  của họ với người khác . Vì vậy, để duy trì giá trị con người này, nhà phát triển đã phải loại bỏ tính năng hiển thị tên.
+4.02 Only endorse documents either prepared under their supervision or within their areas of competence and with which they are in agreement
+VDCác thành viên trong đội phát triển sẽ chỉ làm và nhận các tài liệu mà đã thỏa thuận khi kí hợp đồng. Họ sẽ không  làm theo một tài liệu mà nếu khách hàng tự nhiên bắt thay đổi khi đang trong quá trình phát triên phần mềm (Đổi từ hệ thống học online sang hệ thống giao hàng trực tuyến)
+4.03. Maintain professional objectivity with respect to any software or related documents they are asked to evaluate
+VDĐối vơi một phần mềm mà không quan trọng thì người phát triển sẽ không được làm việc một cách thiếu chuyên nghiệp như không làm theo trình tự của việc phát triển phần mềm, không đào sâu vào các khía cạnh của phần mềm. Designer đưa ra bản thiết kế yêu cầu người viết code đánh giá thì người viết code phải đánh giá, xem xét xem nó có phù hợp không hay  thấy chỗ nào không tốt phản hồi lại với  designer
+4.04.Not engage in deceptive financial practices such as bribery,double billing, or other improper financial practies.
+VDCác thành viên trong dự án sẽ không được phép đưa ra các yêu cầu khác về mặt tài chính đối với khách hàng. Các thành viên cũng không được hối lộ bên kiểm tra sản phẩm để sản phẩm đó được bàn giao một cách nhanh nhất mặc dù vẫn còn lỗi để nhận được phần thưởng khi sản phẩm được giao nhanh hơn thời gian dự định
+4.05. Disclose to all concerned parties those conflicts of interest that cannot reasonably be advoided or escaped
+VDTrong quá trình phát triển dự án về Học online , các thành viên đã có xung đột về việc lư trữ dữ liệu của hệ thống.Vì số lượng lịch học có thể được mã hóa vào thành phần bị hạn chế do lưu trữ hạn chế trong cơ sở dữ  liệu. Vì vậy mà dẫn đến xung đột. Do là nhà phát triển của học online , họ phải chịu trách nhiệm tiết lộ cho tất cả các bên liên quan về vấn đề đó. Nếu họ trốn tránh mà không chịu trách nhiệm sẽ vi phạm đạo đức
+
+
